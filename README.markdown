@@ -1,3 +1,5 @@
+*Please note that this is a fork of the original created by Carlo Zottmann, and updated by Dinesh Jamwal. Tested and working as of 1/18/2016.* 
+
 # simplenote-js
 
 A JS wrapper for the SimpleNote API.  Routes all requests through
@@ -185,10 +187,10 @@ There's a [QUnit](http://docs.jquery.com/QUnit)-based test suite
 * [jquery-base64](http://github.com/carlo/jquery-base64/)
 
 
-## Author
+## Authors
 
-Carlo Zottmann, [municode.de](http://municode.de/), carlo@municode.de.  Nice
-to meet you.
+Carlo Zottmann, [municode.de](http://municode.de/), carlo@municode.de. 
+Maintained by Dinesh Jamwal, jnx@nasha.co.in
 
 
 ## License
