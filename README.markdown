@@ -1,4 +1,4 @@
-*Please note that this is a fork of the original created by Carlo Zottmann, and updated by Dinesh Jamwal. Tested and working as of 1/18/2016.* 
+*Please note that this is a fork of the original created by Carlo Zottmann, and updated for Simplenote  API2 by Dinesh Jamwal. Tested and working as of 2/28/2016.* 
 
 # simplenote-js
 
